@@ -4,11 +4,11 @@ This file lists the maintainers of this repository. Maintainers have write acces
 
 | Organization | Name | GitHub Handle |
 | ------------ | ---- | ------------- |
-| Huawei  | Hongyuan Wang | @howellking |
-| Huawei  | Xingyu Wen| @wenxingyu |
-| Huawei  | Xijun Zhu | @mogu2650 |
-| Huawei  | Xiaokang Guo| @GUO0326 |
-| Huawei  | Mengdi Li | @LiMengdi-Andy |
+| ZTE  | Hongyuan Wang | @howellking |
+| ZTE  | Xingyu Wen| @wenxingyu |
+| ZTE  | Xijun Zhu | @mogu2650 |
+| ZTE  | Xiaokang Guo| @GUO0326 |
+| ZTE  | Mengdi Li | @LiMengdi-Andy |
 | Huawei  | Chuanyu Chen | @ChuanyuChen |
 
 ## Emeritus Maintainers
